@@ -1,1 +1,32 @@
-
+[
+    {
+        "userID": 1,
+        "name": "Neel Prajapati",
+        "email": "neel@test.com",
+        "mobile": 9999
+    },
+    {
+        "userID": 2,
+        "name": "Jatin Swami",
+        "email": "jatin@test.com",
+        "mobile": 8888 
+    },
+    {
+        "userID": 3,
+        "name": "Sanyam Mali",
+        "email": "sanyam@test.com",
+        "mobile": 7777
+    },
+    {
+        "userID": 4,
+        "name": "Bhavesh Kumawat",
+        "email": "bhavesh@test.com",
+        "mobile": 6666
+    },
+    {
+        "userID": 5,
+        "name": "Sahil Khan",
+        "email": "sahil@test.com",
+        "mobile": 5555
+    }
+]
